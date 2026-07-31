@@ -10,5 +10,4 @@ Uma estudante de tecnologia conectando aprendizado, prática e novos desafios.
 ## 🛠️ Tecnologias e Ferramentas
 - `Python`
 - `Playwright` 
-- `Git` 
-- `GitHub`
+- `Git` & `GitHub`
