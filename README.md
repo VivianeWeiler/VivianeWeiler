@@ -8,9 +8,7 @@ Uma estudante de tecnologia conectando aprendizado, prática e novos desafios.
 
 ## 🛠️ Tecnologias e Ferramentas
 
-<div align="left">
-  <img src="https://shields.io" alt="Python" />
-  <img src="https://shields.io" alt="Playwright" />
-  <img src="https://shields.io" alt="Git" />
-  <img src="https://shields.io" alt="GitHub" />
-</div>
+[![Python](https://shields.io)](https://python.org)
+[![Playwright](https://shields.io)](https://playwright.dev)
+[![Git](https://shields.io)](https://git-scm.com)
+[![GitHub](https://shields.io)](https://github.com)
