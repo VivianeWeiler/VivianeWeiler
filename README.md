@@ -1,16 +1,16 @@
-## Hi there 👋
+# Viviane | Tech Explorer 🧭
 
-<!--
-**VivianeWeiler/VivianeWeiler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Uma estudante de tecnologia conectando aprendizado, prática e novos desafios.
 
-Here are some ideas to get you started:
+## 🎯 Foco Atual
+- 🚀 Evoluindo minhas habilidades práticas em desenvolvimento.
+- 📚 Dedicando tempo ao aprendizado de automação e programação.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias e Ferramentas
+
+<div align="left">
+  <img src="https://shields.io" alt="Python" />
+  <img src="https://shields.io" alt="Playwright" />
+  <img src="https://shields.io" alt="Git" />
+  <img src="https://shields.io" alt="GitHub" />
+</div>
